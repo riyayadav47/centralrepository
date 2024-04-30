@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name - Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            background-color: lightblue;
+            color: YELLOW;
+            text-align: center;
+            padding: 1EM;
+            height: 1%;
+
+        }
+
+        section {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h1, h2 {
+            color: GREEN;
+        }
+
+        p {
+            line-height: 1.6;
+            color: #666;
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        li {
+            margin-bottom: 5px;
+        }
+
+        footer {
+            text-align: center;
+            padding: 1em;
+            background-color: lightblue;
+            color: yellow;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+            height: 5%;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>RIYA YADAV</h1>
+        <p>Web Developer</p>
+    </header>
+
+    <section>
+        <h2>About Me</h2>
+        <p>Hello! I'm a passionate web developer with FRESHER in HTML, CSS, and JavaScript. I enjoy creating
+            user-friendly and responsive websites. Currently, I am exploring new technologies to enhance my
+            skills.</p>
+    </section>
+
+    <section>
+        <h2>Skills</h2>
+        <ul>
+            <li>HTML5</li>
+            <li>CSS3</li>
+            <li>JavaScript</li>
+            <li>Responsive Design</li>
+            <li>Git</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 RIYA YADAV - Portfolio</p>
+    </footer>
+
+</body>
+
+</html>
+
